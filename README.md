@@ -42,5 +42,5 @@ CUDA v10.0.0
 
 cudNN v 10.0
 
-![Ukázka SSD](HOG_SVM/test_img/ssd_test.jpg)
+![Ukázka SSD](SSD/test_img/ssd_test.jpg)
  
