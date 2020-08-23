@@ -4,7 +4,7 @@ Tento repozitář slouží jako úschovna kódů použitých v bakalářské pr�
 
 ## HOG_SVM
 
-originální repozitář: https://github.com/SamPlvs/Object-detection-via-HOG-SVM
+Originální repozitář: https://github.com/SamPlvs/Object-detection-via-HOG-SVM
 
 Metoda funguje základě výpočtu HOG příznaků z posuvného okénka. SVM klasifikační metoda pak rozhoduje o objektu. 
 
