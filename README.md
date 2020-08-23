@@ -2,7 +2,7 @@
 
 Tento repozitář slouží jako úschovna kóddů použitých v bakalářské práci.
 
-#HOG_SVM
+## HOG_SVM
 
 originální repozitář: https://github.com/SamPlvs/Object-detection-via-HOG-SVM
 
@@ -15,7 +15,9 @@ HOG_test.ipynb -> vizualizace predikovaných ohraničení
 
 HOG_evaluate.ipynb -> testování modelu pomocí testovací množiny dat
 
-#SSD
+![](HOG_SVM/test_images/test.jpg)
+
+## SSD
 
 Originální repozitář: https://github.com/pierluigiferrari/ssd_keras
 
