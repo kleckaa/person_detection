@@ -33,8 +33,8 @@ Jednotlivé scripty ve složce [SSD](SSD) a jejich funkce:
 Je potřeba mít nainstalované:
 * TensorFlow 1.x -> doporučuji tensorflow-gpu==1.13.1
 * Keras 2.x -> doporučuji Keras==2.2.4
-* CUDA v10.0.0
-* cudNN v 10.0
+* CUDA v10.0
+* cudNN v7.4
 
 ![](SSD/test_img/ssd_test.jpg)
 
