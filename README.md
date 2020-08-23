@@ -6,9 +6,9 @@ Tento repozitář slouží jako úschovna kóddů použitých v bakalářské pr
 
 originální repozitář: https://github.com/SamPlvs/Object-detection-via-HOG-SVM
 
-Metoda funguje základě výpočtu HOG příznaků z posuvného okénka. SVM klasifikační metoda pak rozhoduje o objektu.
+Metoda funguje základě výpočtu HOG příznaků z posuvného okénka. SVM klasifikační metoda pak rozhoduje o objektu. 
 
-
+Jednotlivé scripty ve složce [HOG_SVM](HOG_SVM) a jejich funkce:
 * HOG_train.ipynb -> trénování SVM
 * HOG_test.ipynb -> vizualizace predikovaných ohraničení
 * HOG_evaluate.ipynb -> testování modelu pomocí testovací množiny dat
@@ -21,6 +21,7 @@ Originální repozitář: https://github.com/pierluigiferrari/ssd_keras
 
 Tato metoda predikuje objekty z konvolučních vrstev neuronové sítě založené na architektuře SSD512.
 
+Jednotlivé scripty ve složce SSD a jejich funkce:
 * weight_sampling.ipynb -> pro vytvoření modelu z předtrénovaných vah
 * train_SSD.py -> trénování modelu
 * test_SSD.ipynb -> vizualizace predikovaných ohraničení
