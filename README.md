@@ -43,7 +43,6 @@ Je potřeba mít nainstalované:
 Slouží k vytvoření anotací lidí z videonahrávky.
 
 Jednotlivé scripty ve složce [annotation_maker](annotation_maker) a jejich funkce:
-
 * mov_to_jpg.ipynb -> převedení videonahrávky na .jpg obrázky
 * annotation_maker.ipynb -> anotace lidí z obrázků ukládána do .json formátu podle vzoru MS COCO 
  
