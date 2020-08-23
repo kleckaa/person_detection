@@ -15,7 +15,7 @@ HOG_test.ipynb -> vizualizace predikovaných ohraničení
 
 HOG_evaluate.ipynb -> testování modelu pomocí testovací množiny dat
 
-![Ukázka HOG_SVM](HOG_SVM/test_images/test.jpg)
+![](HOG_SVM/test_images/test.jpg)
 
 ## SSD
 
@@ -42,5 +42,5 @@ CUDA v10.0.0
 
 cudNN v 10.0
 
-![Ukázka SSD](SSD/test_img/ssd_test.jpg)
+![(SSD/test_img/ssd_test.jpg)
  
