@@ -1,0 +1,8 @@
+#!navod!
+#1. objevi se obrazek
+#2. je nutne ho zavrit a napsat kolik postav je na obrazku
+
+#3. pravym dubleclickem mysi oznacit pravy dolni roh postavy
+#4. levym dubleclickem mysi oznacit levy hodni roh postavy
+#5. zavrit obrazek
+#6. opakovat znova od bodu 3, dokud nebudou oznaceny vsechny postavy z obrazku

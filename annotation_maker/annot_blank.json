@@ -1,0 +1,12 @@
+{
+	"images": [
+	], 
+	"annotations": [
+	],
+	"categories": [
+		{"supercategory": "person","id": 1,"name": "person"}
+	]
+}
+
+
+
